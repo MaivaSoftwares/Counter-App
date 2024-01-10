@@ -1,0 +1,38 @@
+body {
+    display: block;
+    align-items:start;
+    justify-content: center;
+    height: 100vh; /* Ensure the body takes up the full height of the viewport */
+    margin: 0; /* Remove default margin */
+  }
+  
+
+
+#increment-btn {
+    background-color: brown;
+    padding: 10px 25px 10px 20px;
+    border-radius: 7px;
+    border: none;
+}
+
+#save-btn {
+    background-color: rgb(42, 165, 93);
+    padding: 10px 25px 10px 20px;
+    margin-top: 20px;
+    border-radius: 7px;
+    border: none;  
+}
+
+#reset-count {
+    background-color: rgb(44, 42, 165);
+    padding: 10px 25px 10px 20px;
+    margin-top: 20px;
+    border-radius: 7px;
+    border: none;      
+}
+
+
+#section {
+    text-align: center ;
+    
+}
